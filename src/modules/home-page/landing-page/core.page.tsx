@@ -18,24 +18,24 @@ const CoreGroup = () => {
         </div>
         <div className="flex lg:flex-row flex-col gap-2">
           <BoxItem
-            icon={"/jeric.jpg"}
+            icon={"/jeric_1.png"}
             title="Jeric Polo"
             description="Coordinator"
           />
           <BoxItem
-            icon={"/lambert.png"}
+            icon={"/lambert_1.png"}
             title="John Lambert Asis"
             description="Assistant Coordinator"
           />
 
           <BoxItem
-            icon={"/angel.png"}
+            icon={"/angel_1.png"}
             title="Coleen Villafuerta"
             description="Parish Youth Leader"
           />
 
           <BoxItem
-            icon={"/clarinette.png"}
+            icon={"/clarinette_2.png"}
             title="Clarinette Gatchalian"
             description="Youth Vocation Promoter"
           />
